@@ -72,6 +72,7 @@ export const OpenaiPath = {
   UsagePath: "dashboard/billing/usage",
   SubsPath: "dashboard/billing/subscription",
   ListModelPath: "v1/models",
+  DallEPath: "v1/images/generations",
 };
 
 export const Azure = {
